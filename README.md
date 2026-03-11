@@ -145,4 +145,4 @@ The application will launch at `http://localhost:3000`.
 
 Developed as a comprehensive Final Year Computer Science Project demonstrating clean architecture, MVC patterns, and modern UI/UX principles.
 
-**GitHub**: Prasanna Kadam (prasannakadamm)
+**GitHub**: ([prasannakadamm](https://github.com/prasannakadamm/))
